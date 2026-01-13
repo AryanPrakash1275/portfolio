@@ -18,7 +18,15 @@ export function Hero() {
         <div style={{ marginTop: "1.5rem" }}>
           <a href="#projects">View Projects</a>{" "}
           <a
-            href="http://github.com/AryanPrakash1275"
+            href="/Aryan_Prakash_Backend_FullStack_Developer.pdf"
+            target="_blank"
+            rel="noreferrer"
+            style={{ marginLeft: "1rem" }}
+          >
+            Resume
+          </a>{" "}
+          <a
+            href="https://github.com/AryanPrakash1275"
             target="_blank"
             rel="noreferrer"
             style={{ marginLeft: "1rem" }}

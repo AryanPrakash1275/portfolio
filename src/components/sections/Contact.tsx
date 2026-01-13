@@ -18,7 +18,11 @@ export function Contact() {
         </p>
 
         <p>
-          <a href="public/Aryan_Prakash_Backend_FullStack_Developer.pdf" target="_blank" rel="noreferrer">
+          <a
+            href="/Aryan_Prakash_Backend_FullStack_Developer.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
             Resume
           </a>{" "}
           ·{" "}
