@@ -18,7 +18,7 @@ export function Hero() {
         <div style={{ marginTop: "1.5rem" }}>
           <a href="#projects">View Projects</a>{" "}
           <a
-            href="/Aryan_Prakash_Backend_FullStack_Developer.pdf"
+            href="/AryanResume2026.pdf"
             target="_blank"
             rel="noreferrer"
             style={{ marginLeft: "1rem" }}

@@ -19,7 +19,7 @@ export function Contact() {
 
         <p>
           <a
-            href="/Aryan_Prakash_Backend_FullStack_Developer.pdf"
+            href="/AryanResume2026.pdf"
             target="_blank"
             rel="noreferrer"
           >
